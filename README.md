@@ -4,6 +4,17 @@
 
 This repository contains code for analyzing cryptocurrency transactions in 3D. It uses the ForceGraph3D library to visualize transactions between addresses in a three-dimensional space.
 
+# Installation
+
+  - Clone this repo :
+  `git clone https://github.com/lhommedelasituation/Crypto-Transactions-Analysis-in-3D/`
+  
+  - Change the working directory to Crypto-Transactions-Analysis-in-3D :
+  `cd Crypto-Transactions-Analysis-in-3D`
+  
+  - Run this command : 
+  `python 3d_graph_usdt.py`
+
 # Usage
 
 To use this code, you'll need to have Python and the following libraries installed:
@@ -39,7 +50,18 @@ https://lhommedelasituation.github.io/USDT_3D_Network/
 
 Ce repo contient du code pour l'analyse des transactions de crypto-monnaies en 3D. Il utilise la bibliothèque ForceGraph3D pour visualiser les transactions entre les adresses dans un espace tridimensionnel.
 
-# Utilisation
+# Installation
+
+  - Clonez ce repo :
+  `git clone https://github.com/lhommedelasituation/Crypto-Transactions-Analysis-in-3D/`
+  
+  - Changez le répertoire de travail en Crypto-Transactions-Analysis-in-3D :
+  `cd Crypto-Transactions-Analysis-in-3D`
+  
+  - Exécutez cette commande : 
+  `python 3d_graph_usdt.py`
+
+# Usage
 
 Pour utiliser ce code, vous devrez avoir Python et les bibliothèques suivantes installés :
 
